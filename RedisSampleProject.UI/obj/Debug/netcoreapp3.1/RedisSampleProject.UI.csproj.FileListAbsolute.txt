@@ -361,7 +361,6 @@ C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\
 C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\RedisSampleProject.UI.TagHelpers.output.cache
 C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\RedisSampleProject.UI.RazorCoreGenerate.cache
 C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -374,3 +373,4 @@ C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\
 C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\RedisSampleProject.UI.dll
 C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\RedisSampleProject.UI.pdb
 C:\Workspace\redis-sample-project\RedisSampleProject.UI\obj\Debug\netcoreapp3.1\RedisSampleProject.UI.genruntimeconfig.cache
+C:\Workspace\redis-sample-project\RedisSampleProject.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

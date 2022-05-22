@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using RedisSampleProject.UI.Provider;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +31,11 @@ namespace RedisSampleProject.UI
             services.AddStackExchangeRedisCache(options =>
             {
                 options.Configuration = Configuration.GetConnectionString("Redis");
+            });
+
+            services.AddHttpClient<UserProvider>(options =>
+            {
+                options.BaseAddress = new Uri("https://localhost:5001/api/");
             });
         }
 
